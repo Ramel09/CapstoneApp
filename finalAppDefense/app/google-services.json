@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565011908484",
+    "firebase_url": "https://finalappsdefense-default-rtdb.firebaseio.com",
+    "project_id": "finalappsdefense",
+    "storage_bucket": "finalappsdefense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565011908484:android:f2f919f7d09e19d67fbfd1",
+        "android_client_info": {
+          "package_name": "com.example.finalappdefense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565011908484-f7hl88sks7adb3kuo2tuuq127sq6jlso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4Ji9ejl3a7S3Vj8qeYJNTh8N0_gBFgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565011908484-f7hl88sks7adb3kuo2tuuq127sq6jlso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
